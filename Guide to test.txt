@@ -1,0 +1,4 @@
+There are 2 ways to complete the game.
+
+1. Looking at the map, go through the forrest to the Pub and enter the building
+2. Looking at the map, go to the lake (selecting 'go' when event pops up) and enter the building
